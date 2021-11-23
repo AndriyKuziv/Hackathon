@@ -1,0 +1,10 @@
+C:\Users\BROS\source\repos\Testing_see_sharp\bin\Debug\Testing_see_sharp.exe.config
+C:\Users\BROS\source\repos\Testing_see_sharp\bin\Debug\Testing_see_sharp.exe
+C:\Users\BROS\source\repos\Testing_see_sharp\bin\Debug\Testing_see_sharp.pdb
+C:\Users\BROS\source\repos\Testing_see_sharp\obj\Debug\Testing_see_sharp.csprojAssemblyReference.cache
+C:\Users\BROS\source\repos\Testing_see_sharp\obj\Debug\Testing_see_sharp.Form1.resources
+C:\Users\BROS\source\repos\Testing_see_sharp\obj\Debug\Testing_see_sharp.Properties.Resources.resources
+C:\Users\BROS\source\repos\Testing_see_sharp\obj\Debug\Testing_see_sharp.csproj.GenerateResource.cache
+C:\Users\BROS\source\repos\Testing_see_sharp\obj\Debug\Testing_see_sharp.csproj.CoreCompileInputs.cache
+C:\Users\BROS\source\repos\Testing_see_sharp\obj\Debug\Testing_see_sharp.exe
+C:\Users\BROS\source\repos\Testing_see_sharp\obj\Debug\Testing_see_sharp.pdb
